@@ -1,2 +1,2 @@
 # repo1
-none
+This is the master branch of repo1.
